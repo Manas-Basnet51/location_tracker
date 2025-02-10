@@ -54,7 +54,7 @@ A Flutter application that provides real-time location tracking with background 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/location_tracker.git
+   git clone https://github.com/Manas-Basnet51/location_tracker.git
    ```
 
 2. **Install dependencies**
